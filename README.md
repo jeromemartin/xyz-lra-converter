@@ -17,5 +17,5 @@ Python module convertX2L.py provides the calculation engine:
             data = [[0, 0, 0], [200, 0, 0], [0, 200, 0]]
             res = xyz2lra(data, clr=5)
             print(res)
-    - a function `lra2xyz` to LRA coordinates to XYZ
-    - a class `transform` to convert from one to the other with other options
+   - a function `lra2xyz` to LRA coordinates to XYZ
+   - a class `transform` to convert from one to the other with other options
